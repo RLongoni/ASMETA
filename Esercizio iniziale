@@ -1,7 +1,7 @@
 /*Esercizio introduttivo ASMETA*/
 asm prova // il nome del file deve essere uguale al nome dopo asm 
 
-// StardardLibrary DEVE essere nella directory del progetto Li
+// StardardLibrary DEVE essere nella directory del progetto
 import StandardLibrary // contiene tutte le operazioni di base; la si trova su Ariel
 
 signature:
@@ -15,3 +15,4 @@ definitions:
 	
 default init s0: 
 	function boo = 1 
+// Lancirare il programma per capire allo stato 0 e allo stato 1 cosa succede
